@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lamtut-dev-134956-authRole",
+      "UnauthRoleArn": "arn:aws:iam::302080267522:role/amplify-lamtut-dev-134956-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::302080267522:role/amplify-lamtut-dev-134956-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-lamtut-dev-134956-deployment",
+      "UnauthRoleName": "amplify-lamtut-dev-134956-unauthRole",
+      "StackName": "amplify-lamtut-dev-134956",
+      "StackId": "arn:aws:cloudformation:us-west-2:302080267522:stack/amplify-lamtut-dev-134956/2bc4d410-8699-11eb-8d2b-06d074c987c1",
+      "AmplifyAppId": "d3duxeljr0g1vv"
+    },
+    "categories": {
+      "function": {
+        "gfrFunc": {
+          "deploymentBucketName": "amplify-lamtut-dev-134956-deployment",
+          "s3Key": "amplify-builds/gfrFunc-6d36765a4d6b356d6f73-build.zip"
+        }
+      }
+    }
+  }
+}
