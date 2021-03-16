@@ -1,6 +1,8 @@
 # Connect Lambda Function To API Gateway From Scratch
 If you are working with an existing amplify project jump down to 'Adding a Lambda Function'
 
+❗️ This repo is the final product of the steps outlined below. Refer to the files within it as you step through this document.
+
 ## Project Setup
 Prerequisites:
 - Node.js v 10.x or later
@@ -88,7 +90,7 @@ This is deploying your function in the cloud and will take a minute or two.
 Pat yourself on the back, you now have a Lambda Function connected to API Gateway! 🥳
 
 
-
+---
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
