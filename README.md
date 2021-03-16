@@ -8,7 +8,7 @@ Prerequisites:
 - git
 - An AWS Account
 
-FOLLOW THIS TUTORIAL IF TO CONFIGURE YOUR AWS ACCOUNT WITH AMPLIFY: [Tutorial](https://docs.amplify.aws/start/getting-started/installation/q/integration/react)
+FOLLOW THIS TUTORIAL IF YOU GET STUCK CONFIGURING AWS: [Tutorial](https://docs.amplify.aws/start/getting-started/installation/q/integration/react)
 
 
 ## Install Amplify
@@ -85,7 +85,7 @@ Once your function is edited run:
 And answer yes to any questions.
 This is deploying your function in the cloud and will take a minute or two.
 
-Pat yourself on the back, you now have a Lambda Function connected to API Gateway!
+Pat yourself on the back, you now have a Lambda Function connected to API Gateway! 🥳
 
 
 
